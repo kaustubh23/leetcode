@@ -1,5 +1,9 @@
 package leetcode;
-
+/**
+ * 
+ * @author pc
+ *
+ */
 public class BinarySearch {
 
 	// Java program to count
