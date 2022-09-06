@@ -1,7 +1,7 @@
 package leetcode;
 /**
  * 
- * @author pc
+ * @author kaustubh
  *
  */
 public class BinarySearch {
